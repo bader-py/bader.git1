@@ -1,5 +1,5 @@
 # Magic 8 Ball 🎱
-# Codédex
+
 
 import random
 
